@@ -1,8 +1,8 @@
-Media,object number,department,classification,culture,period,creator,title,date,medium/technique,dimensions,description,begin date
-4,2008.104,,sculpture,,,"Branch, Betty",Dancer,1989,sculpture/Portuguese marble,,,
-1,2007.007,,photograph,,,"Laing, Rosemary",geenwork (aerial wall),1995,digitally altered image,,,
-1,1997.001,,painting,American,,"Young, Pervis",Shackled Hands And Human Chains,1970-1980,oil on board,,,
-1,2006.039,,,Vietnamese,,Binh Danh,Ancestral Altar #14,2005,chlorophyll print and resin,,,
-1,2004.005,,sculpture,American,,"John Torres, Jr.",Chicago Woman,1985,carved and polished Virginia soapstone,,,
-1,1994.018,,painting,American,,"Sieveking, Brian",[Hank Williams] Grace And Violence…,1992-1993,"oil, wax crayon, collaged paper and gesso",,,
-1,1986.059,,painting,american,,"Bowman, Richard Irving",Kinetograph #17,1951,oil and fluorescent lacquer,,,
+objectid,filename,title,creator,date,description,subject,location,identifier,type,format
+2008.104,TAU-ART-000189-0001.jpg,Dancer,"Branch, Betty",1989,,,,,sulpture/Portuguese marbl,image/jpeg
+2007.007,TAU-ART-000133-0001.jpg,greenwork (aerial wall),"Laing, Rosemary",1995,,,,,digitally altered image,image/jpeg
+1997.001,TAU-ART-000136-0003.jpg,Shackled Hands And Human Chains,"Young, Pervis",1970-1980,,,,,oil on board,image/jpeg
+2006.039,TAU-ART-000139-0007.jpg,Ancestral Altar #14,Binh Danh,2005,,,,,chlorophyll print and resin,image/jpeg
+2004.005,TAU-ART-000140-0003.jpg,Chicago Woman,"John Torres, Jr.",1985,,,,,carved and polished Virginia soapstone,image/jpeg
+1994.018,TAU-ART-000141-0005.jpg,[Hank Williams] Grace And Violence..,"Sieveking, Brian",1992-1993,,,,,"oil, wax crayon, collaged paper and gesso",image/jpeg
+1986.059,TAU-ART-000143-0002.jpg,Kinetograph #17,"Bowman, Richard Irving",1951,,,,,oil and fluorescent lacquer,image/jpeg
